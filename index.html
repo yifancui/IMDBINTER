@@ -20,7 +20,7 @@
       padding: 12px;
       background: rgba(0, 0, 0, 0.8);
       color: #fff;
-      border-radius: 2px;
+      
     }
 
   </style>
@@ -138,7 +138,7 @@
               {
                 type: "Left",
                 scale: yScale,
-                translateX: 28
+                translateX: -3.2
               },
               {
                 type: "Bottom",
@@ -176,7 +176,7 @@
     var tooltip = (function (){
       var tip = d3.tip()
         .attr("class", "d3-tip")
-        .offset([-10, 0]);
+        .offset([2, 0]);
       return function (svgSelection, state){
         
         // Wish we could use D3 here for DOM manipulation..
@@ -320,10 +320,10 @@
     
     function reducer (state, action){
       var state = state || {
-        width: 960,
-        height: 500 - 38,
+        width: 800,
+        height: 400,
         loading: true,
-        margin: {top: 12, right: 12, bottom: 40, left: 50},
+        margin: {top: 10, right: 10, bottom: 36, left: 80},
         x: "Rating",
         y: "Votes",
         z: "Runtime",
