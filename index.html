@@ -277,18 +277,17 @@
     
     function loadData(actions){
       var numericColumns = [
-            "acceleration",
-            "cylinders", 
-            "displacement", 
-            "horsepower", 
-            "weight", 
-            "year", 
-            "mpg"
+            "Rank",
+            
+            "Runtime", 
+            "Rating", 
+            "Votes", 
+            "Revenue", 
+            "Metascore"
           ],
           ordinalColumns = [
-            "cylinders",
-            "origin",
-            "year"
+           
+            "Year"
           ];
 
       setTimeout(function (){ // Show off the spinner for a few seconds ;)
@@ -311,9 +310,9 @@
         height: 500 - 38,
         loading: true,
         margin: {top: 12, right: 12, bottom: 40, left: 50},
-        x: "acceleration",
-        y: "horsepower",
-        color: "cylinders"
+        x: "Rating",
+        y: "Votes",
+        color: "Year"
       };
       switch (action.type) {
         case "INGEST_DATA":
