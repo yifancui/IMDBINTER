@@ -4,7 +4,7 @@ This data is of [1,000 most popular movies on IMDB in the last 10 years. ](https
 
 This data set contains 1,000 most popular movies on IMDB in the last 10 years. 
 Inspired by [Stylized Scatter Plot with Color Legend](http://bl.ocks.org/curran/ecb09f2605c7fbbadf0eeb75da5f0a6b).
-forked from <a href='http://bl.ocks.org/curran/'>curran</a>'s block: <a href='http://bl.ocks.org/curran/ecb09f2605c7fbbadf0eeb75da5f0a6b'>Stylized Scatter Plot with Color Legend</a>
+
 Built with [blockbuilder.org](http://blockbuilder.org)
 
 forked from <a href='http://bl.ocks.org/curran/'>curran</a>'s block: <a href='http://bl.ocks.org/curran/685fa8300650c4324d571c6b0ecc55de'>Spinner with d3-component</a>
