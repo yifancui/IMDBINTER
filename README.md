@@ -1,4 +1,4 @@
-This example create a scatter plot with menus for X, Y, Z and color, and some animations. We can select features for X, Y, Z and color. 
+This example creates a scatter plot with menus for X, Y, Z and color, and some animations. We can select features for X, Y, Z and color. 
 We can also see the details of each point when mouse hovers over that point.
 
 This data is of [1,000 most popular movies on IMDB in the last 10 years. ](https://www.kaggle.com/PromptCloudHQ/imdb-data/data).
