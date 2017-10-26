@@ -1,4 +1,5 @@
-This example demonstrates usage of a new library called [d3-component](https://github.com/curran/d3-component) and [Redux](http://redux.js.org/) to create a scatter plot with menus for X, Y, Z and color, and some animations. It's an experiment to see how things play out when pairing D3 directly with Redux, without React in the middle.
+This example create a scatter plot with menus for X, Y, Z and color, and some animations. We can select features for X, Y, Z and color. 
+We can also see the details of each point when mouse hovers over that point.
 
 This data is of [1,000 most popular movies on IMDB in the last 10 years. ](https://www.kaggle.com/PromptCloudHQ/imdb-data/data).
 
