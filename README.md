@@ -1,4 +1,5 @@
 **Final Project report**
+
 This is a scatter plot of movies in the last 10 years with menus for X, Y, Z and color. We can select features for X, Y, Z and color. We can also see the details of each point when mouse hovers over that point.
 1.Data
 - Dataset: 1,000 most popular movies on IMDB in the last 10 years.
