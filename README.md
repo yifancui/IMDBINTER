@@ -1,10 +1,9 @@
-This example creates a scatter plot with menus for X, Y, Z and color, and some animations. We can select features for X, Y, Z and color. 
-We can also see the details of each point when mouse hovers over that point.
+**Final Project report**
 
-This data is of [1,000 most popular movies on IMDB in the last 10 years. ](https://www.kaggle.com/PromptCloudHQ/imdb-data/data).
-
-This data set contains 1,000 most popular movies on IMDB in the last 10 years. 
-Inspired by [Stylized Scatter Plot with Color Legend](http://bl.ocks.org/curran/ecb09f2605c7fbbadf0eeb75da5f0a6b).
+1.data
+- Dataset: 1,000 most popular movies on IMDB in the last 10 years.
+- This dataset contains several features:
+  - Rank,Title,Genre,Description,Director,Actors,Year,Runtime,Rating,Votes,Revenue,Metascore. [Here is the link](https://www.kaggle.com/PromptCloudHQ/imdb-data/data)
 
 Built with [blockbuilder.org](http://blockbuilder.org)
 
