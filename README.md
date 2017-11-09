@@ -8,6 +8,9 @@ This is a scatter plot of movies in the last 10 years with menus for X, Y, Z and
   - Rank,Title,Genre,Description,Director,Actors,Year,Runtime,Rating,Votes,Revenue,Metascore. [Here is the link](https://www.kaggle.com/PromptCloudHQ/imdb-data/data)
   
 2.Prototype
+
+![image](https://user-images.githubusercontent.com/22227088/32583025-8b434560-c4bf-11e7-9521-661c0cdcda13.png)
+
 - Year can be selected in the color dropdown box.
   - Below I selected Year and it is the legend.
 - X-axis, y-axis, z-axis (radius of each point) can be selected from Runtime, Rating, Votes, Revenue,
